@@ -69,7 +69,7 @@ Allows searching for businesses (business profiles) that exist within the TrustM
             },
             "trades": [
                 {
-                    "code": number,
+                    "tradeCode": number,
                     "name": "string?",
                     "description": "string?"
                 }
@@ -101,3 +101,13 @@ Allows searching for businesses (business profiles) that exist within the TrustM
     }
 }
 ```
+
+#### Example requests
+
+> Basic request with no filters, returning all business profiles (first page, 10 records)
+
+`/business-profiles`
+
+> Request returning business profiles with trading standards approved **and** registered for the provided trades (24 **or** 91), second page of results
+
+`/business-profiles?tradingStandardsApproved=true&tradeCodes=24&tradeCodes=91&pageIndex=1`
