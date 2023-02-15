@@ -2,11 +2,14 @@
 
 ## Introduction
 
-The TrustMark BusinessSearch Integration API allows consumers to search for businesses (business profiles) that exist within the TrustMark Communications Platform.
+The TrustMark BusinessSearch Integration API allows integrators to search for TrustMark Registered Businesses and embed the results into their platform.
+Flexible searching is supported permitting the user to combine various geographical options with one or more trade codes. 
 
 ## Access
 
-API key provided by TrustMark is needed to access the API. It should be added as `x-api-key` header.
+Before this API can be used a Data Sharing Ageement must be in place. To request one please draft a summary of your use case for the API and email data@trustmark.org.uk 
+
+if the application is successful and an API key provided by TrustMark it should be added to the `x-api-key` header.
 
 ## Response Codes
 
