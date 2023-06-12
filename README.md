@@ -51,6 +51,8 @@ Allows searching for businesses (business profiles) that exist within the TrustM
 | tradeStandards | Allows to narrow down the search results to businesses registered for the provided trade standards. |
 | tradingStandardsApproved | Allows to narrow down the search results to businesses with trading standards approved (`true`) or without trading standards approved (`false`). |
 | nationalBusinesses | Allows to narrow down the search results to national businesses only (`true`) or local businesses only (`false`). |
+| fundingOptionTypes | Allows to narrow down the search results to the type of funding option (`Grant`, `Incentive`, `Payment Option`). |
+| fundingOptionIds | Allows to narrow down the search results to the specific funding option ID. |
 | pageIndex | Page index number. Default: 0, which means a first page. |
 | pageSize | Number of businesses returned within a single page. Default: 10. Max: 100. |
 
