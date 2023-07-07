@@ -392,3 +392,7 @@
 - Wyre
 - Wyre Forest
 - York
+
+## TradeCodes
+Tradecodes are defined in the WorkType sheet in the [TrustMark Data Dictionary](https://www.trustmark.org.uk/business/data-warehouse) used in the lodgement process.
+
