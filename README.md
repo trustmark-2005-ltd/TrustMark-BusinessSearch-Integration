@@ -9,7 +9,21 @@ Flexible searching is supported permitting the user to combine various geographi
 
 Before this API can be used a Data Sharing Ageement must be in place. To request one please draft a summary of your use case for the API and email data@trustmark.org.uk 
 
-if the application is successful and an API key provided by TrustMark it should be added to the `x-api-key` header.
+If the application is successful and an API key provided by TrustMark it should be added to the `x-api-key` header.
+
+TrustMark reserves the right to charge an opeational fee for use of this service.
+
+### Embedding search results in a product
+
+The following text must be presented alongside the search results with the TrustMark logo presented.
+
+>Search powered by
+
+_TrustMark Logo variant to be provided that is most suited to your use case_
+
+>TrustMark is the only UK Government-Endorsed Quality Scheme for home improvements carried out in and around the home. We are passionate about quality and assurance and what that means for homeowners and our Registered Businesses.
+
+
 
 ## Response Codes
 
@@ -25,7 +39,7 @@ Almost likely that a missing or malformed request has been provided, often due t
 
 ### 429 Too Many Requests
 
-You have exceeded your usage quota of requests.
+You have exceeded your usage quota of requests. The usage quota is currently 50k per month. This may be subject to change.  
 
 ### 5xx
 
