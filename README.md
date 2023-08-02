@@ -101,7 +101,8 @@ Allows searching for businesses (business profiles) that exist within the TrustM
             "websites": [
                 "string"
             ],
-            "communicationsPlatformLink": "string"
+            "communicationsPlatformLink": "string",
+            "tmln": "string"
         }
     ],
     "totalItemsCount": number
