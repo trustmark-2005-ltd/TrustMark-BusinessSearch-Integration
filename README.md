@@ -9,11 +9,11 @@ Note - this is early preview and may be subject to change.
 
 ## Access
 
-Before this API can be used a Data Sharing Ageement must be in place. To request one please draft a summary of your use case for the API and email data@trustmark.org.uk 
+Before this API can be used a Data Sharing Agreement must be in place. To request one please draft a summary of your use case for the API and email data@trustmark.org.uk 
 
 If the application is successful and an API key provided by TrustMark it should be added to the `x-api-key` header.
 
-TrustMark reserves the right to charge an opeational fee for use of this service.
+TrustMark reserves the right to charge an optional fee for use of this service and access may be revoked if the service is abused or data shared outside of any agreement.
 
 ### Embedding search results in a product
 
@@ -21,7 +21,7 @@ The following text must be presented alongside the search results with the Trust
 
 >Search powered by
 
-_TrustMark Logo variant to be provided that is most suited to your use case_
+_A TrustMark Logo variant that is most suited to your use case will be provided_
 
 >TrustMark is the only UK Government-Endorsed Quality Scheme for home improvements carried out in and around the home. We are passionate about quality and assurance and what that means for homeowners and our Registered Businesses.
 
@@ -45,9 +45,11 @@ You have exceeded your usage quota of requests. The usage quota is currently 50k
 
 ### 5xx
 
-Error status codes indicate an error. Whilst in this early stage we would always appreciate feedback and your http request used to cause the error.
+Error status codes indicate an error. While in this early stage we would always appreciate feedback and your http request used to cause the error.
 
 ## Endpoints
+
+URL: https://api.trustmark.org.uk
 
 ### BusinessProfiles
 
@@ -133,3 +135,17 @@ Allows searching for businesses (business profiles) that exist within the TrustM
 > Request returning business profiles with trading standards approved **and** registered for the provided trades (24 **or** 91), second page of results
 
 `/business-profiles?tradingStandardsApproved=true&tradeCodes=24&tradeCodes=91&pageIndex=1`
+
+> Request returning profiles of businesses located in London
+
+`/business-profiles?location=london`
+
+> Request returning profiles of businesses located in Cardiff offering Loft and Cavity Wall insulation 
+
+`/business-profiles?tradeCodes=93&tradeCodes=91&location=Cardiff`
+
+
+
+
+
+
