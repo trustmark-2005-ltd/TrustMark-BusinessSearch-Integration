@@ -13,7 +13,14 @@ Before this API can be used a Data Sharing Agreement must be in place. To reques
 
 If the application is successful and an API key provided by TrustMark it should be added to the `x-api-key` header.
 
-TrustMark reserves the right to charge an optional fee for use of this service and access may be revoked if the service is abused or data shared outside of any agreement.
+## Service charges
+Fees for commercial use of this service (Excluding VAT) are:
+    Setup fee: £1,500
+    Annual Service Charge: £4,750
+
+Access may be revoked if the service is abused or data shared outside of any agreement.
+
+If your model requires lodgement of work delivered it may be possible to offset some of these fees against lodgement. 
 
 ### Embedding search results in a product
 
