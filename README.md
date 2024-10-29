@@ -16,7 +16,7 @@ If the application is successful and an API key provided by TrustMark it should 
 ## Service charges
 Fees for commercial use of this service (Excluding VAT) are:
     Setup fee: £1,500
-    Annual Service Charge: £4,750
+    Annual Service Charge: £4,750 (Annual increase capped at CPI +3%)
 
 Access may be revoked if the service is abused or data shared outside of any agreement.
 
