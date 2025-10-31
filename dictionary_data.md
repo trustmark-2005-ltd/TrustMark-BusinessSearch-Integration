@@ -21,7 +21,6 @@
 - Aberdeen City
 - Aberdeenshire
 - Adur
-- Allerdale
 - Amber Valley
 - Angus
 - Antrim and Newtownabbey
@@ -35,7 +34,6 @@
 - Barking and Dagenham
 - Barnet
 - Barnsley
-- Barrow-in-Furness
 - Basildon
 - Basingstoke and Deane
 - Bassetlaw
@@ -76,7 +74,6 @@
 - Cannock Chase
 - Canterbury
 - Cardiff
-- Carlisle
 - Carmarthenshire
 - Castle Point
 - Causeway Coast and Glens
@@ -96,14 +93,13 @@
 - Clackmannanshire
 - Colchester
 - Conwy
-- Copeland
 - Cornwall
 - Cotswold
 - County Durham
 - Coventry
-- Craven
 - Crawley
 - Croydon
+- Cumberland
 - Dacorum
 - Darlington
 - Dartford
@@ -132,7 +128,6 @@
 - East Suffolk
 - Eastbourne
 - Eastleigh
-- Eden
 - Elmbridge
 - Enfield
 - Epping Forest
@@ -160,12 +155,10 @@
 - Gwynedd
 - Hackney
 - Halton
-- Hambleton
 - Hammersmith and Fulham
 - Harborough
 - Haringey
 - Harlow
-- Harrogate
 - Harrow
 - Hart
 - Hartlepool
@@ -212,7 +205,6 @@
 - Mansfield
 - Medway
 - Melton
-- Mendip
 - Merthyr Tydfil
 - Merton
 - Mid and East Antrim
@@ -249,6 +241,7 @@
 - North Tyneside
 - North Warwickshire
 - North West Leicestershire
+- North Yorkshire
 - Northumberland
 - Norwich
 - Nottingham
@@ -274,7 +267,6 @@
 - Rhondda Cynon Taf
 - Ribble Valley
 - Richmond upon Thames
-- Richmondshire
 - Rochdale
 - Rochford
 - Rossendale
@@ -285,21 +277,17 @@
 - Rushcliffe
 - Rushmoor
 - Rutland
-- Ryedale
 - Salford
 - Sandwell
-- Scarborough
 - Scottish Borders
-- Sedgemoor
 - Sefton
-- Selby
 - Sevenoaks
 - Sheffield
 - Shetland Islands
 - Shropshire
 - Slough
 - Solihull
-- Somerset West and Taunton
+- Somerset
 - South Ayrshire
 - South Cambridgeshire
 - South Derbyshire
@@ -307,12 +295,10 @@
 - South Hams
 - South Holland
 - South Kesteven
-- South Lakeland
 - South Lanarkshire
 - South Norfolk
 - South Oxfordshire
 - South Ribble
-- South Somerset
 - South Staffordshire
 - South Tyneside
 - Southampton
@@ -377,6 +363,7 @@
 - West Oxfordshire
 - West Suffolk
 - Westminster
+- Westmorland and Furness
 - Wigan
 - Wiltshire
 - Winchester
