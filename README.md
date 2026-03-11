@@ -56,6 +56,8 @@ Error status codes indicate an error. While in this early stage we would always 
 
 ## Endpoints
 
+UAT URL: https://api.demo.trustmark-apps.org.uk/
+
 URL: https://api.trustmark.org.uk
 
 ### BusinessProfiles
